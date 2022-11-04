@@ -6,3 +6,17 @@
     border-radius: 30%;
     background-color: #555;
 }
+
+.booktitle{
+    position: fixed;
+    top: 50%;
+    left: 20%;
+}
+
+
+.book1{
+    position: fixed;
+    top: 40%;
+    left: 15%;
+}
+
