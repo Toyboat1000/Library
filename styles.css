@@ -1,5 +1,5 @@
 .border{
-    height: 380px;
+    height: 395px;
     width: 350px;
     border: 3px;
     border-color: black;
@@ -11,6 +11,7 @@
     position: fixed;
     top: 50%;
     left: 20%;
+    text-align: center;
 }
 
 
